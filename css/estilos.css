@@ -1,0 +1,107 @@
+nav  ul li{
+    text-align: center;
+    display: inline-block;
+    margin: 2em;
+    line-height: 0%;
+    font-size: medium;
+    
+    
+}
+nav {
+    text-align: center;
+    text-decoration: none;
+    
+    
+}
+body li{
+    text-align: center;  
+    
+   
+}
+.menu{
+    
+    padding: 0;
+    margin: -1em 6em; 
+    background-color: #f1f1f1; 
+    
+    
+}
+ 
+
+body{
+    background-image: url(../img/dark-blue-modern-blurred-backdrop-vector.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    
+    
+
+}
+.fondo{
+    margin: 0 2rem 15em 0;
+}
+
+header div h1{
+    text-align: center;
+    width: 100% ;
+    margin: 14% 7em 2.2%;
+    color: #ffffff;
+    font-size: 2.2em;
+    text-decoration: none;
+    
+}
+header div p{
+    text-align: center;
+    width: 100%;
+    margin: 0 15em ;
+    color: #ffffff;
+    
+}
+section{
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    margin: 20px auto auto auto;
+    padding: 1em;
+    font-size: 1em;
+    font-weight: bold
+}
+.fila{
+    margin-bottom: 1em;
+    
+}
+
+
+#cuadrito .col{
+    width: 30%;
+    
+
+}
+
+.col {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin-bottom: 1em;
+    
+}
+
+img{
+    max-width: 80%;
+    
+}
+
+.logos{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.texto{
+    width: 60%;
+    justify-content: center;
+    font-size: medium;
+    text-decoration: none;
+    
+}
+
